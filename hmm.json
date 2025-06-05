@@ -54,7 +54,7 @@
       "name": "lime",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/noctrox389/lime-8.2.2"
+      "url": "https://github.com/noctrox389/lime-8.1.2"
     },
     {
       "name": "openfl",
